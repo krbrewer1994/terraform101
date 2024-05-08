@@ -3,7 +3,7 @@
 Welcome to my Terraform Learning Journey repository! Here, I document my progress and store practice templates as I dive deeper into mastering Terraform.
 
 ## About
-This repository serves as my personal space to experiment, learn, and grow my skills with Terraform. I aim to explore various aspects of infrastructure as code (IaC) using Terraform, including provisioning, managing, and scaling cloud resources.
+This repository serves as my personal space to experiment, learn, and grow my skills with Terraform. I aim to explore various aspects of infrastructure as code (IaC) using Terraform, including provisioning, managing, scaling cloud resources, with an emphasis on security best practices 🔐.
 
 ## Contents
 - **Practice Templates**: Explore a collection of Terraform templates organized by project or category.
