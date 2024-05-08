@@ -2,6 +2,10 @@
 
 Welcome to my Terraform Learning Journey repository! Here, I document my progress and store practice templates as I dive deeper into mastering Terraform.
 
+**What the heck is Terraform?** 
+<br/>
+Terraform- (v) is to alter a planet for the purpose of sustaining life   🌍
+
 ## About
 This repository serves as my personal space to experiment, learn, and grow my skills with Terraform. I aim to explore various aspects of infrastructure as code (IaC) using Terraform, including provisioning, managing, scaling cloud resources, with an emphasis on security best practices 🔐.
 
