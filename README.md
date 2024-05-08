@@ -30,9 +30,9 @@ Your contributions and feedback are highly appreciated! Whether you're a seasone
 Let's learn and grow together in our Terraform journey! 🚀
 
 ## Connect
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/kristin-r-brewer)
-- **Instagram**: [Your Instsgram Profile](@kj_awholevibe)
-- **Email**: [Your email](krstn_brewer@yahoo.com)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/kristin-r-brewer)
+- **Instagram**: Instsgram Profile: @kj_awholevibe
+- **Email**: Email: krstn_brewer@yahoo.com
 
 Happy Terraforming! 🌍✨
 ```
